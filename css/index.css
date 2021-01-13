@@ -64,3 +64,19 @@ div.search {padding: 19px 0;}
     height: 240px;
     width: 100%;
 }
+.repo-title{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.intro-container{
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 50%;
+}
+.repo-tags{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.repo-tags > *{
+    margin-right: 20px;
+}
