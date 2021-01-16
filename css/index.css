@@ -90,8 +90,8 @@ div.search {padding: 19px 0;}
 .intro-img{
     width: 50%;
     padding: 15px;
-    background: url("https://play-lh.googleusercontent.com/iO4zkUuieCTCVsbQWnuCjxkVUxc3_45mhdED_HVHXAXFpR13xB5gwr6qPO64TQSDI7U=s360-rw") center center;
-    background-size: 76% auto;
+
+    background-size: 76% !important;
     background-clip: content-box;
     border-radius: 20px;
 }
@@ -101,4 +101,13 @@ div.search {padding: 19px 0;}
 }
 .repo-tags > *{
     margin-right: 30px;
+}
+.carpool-img{
+    background: url("https://play-lh.googleusercontent.com/iO4zkUuieCTCVsbQWnuCjxkVUxc3_45mhdED_HVHXAXFpR13xB5gwr6qPO64TQSDI7U=s360-rw") center center;
+}
+.influ-img{
+    background: url("https://i0.wp.com/influnetics.com/wp-content/uploads/2020/02/undraw_mobile_marketing_iqbr.png?resize=768%2C555&ssl=1") center center;
+}
+.house-img{
+background: url(../img/login_bg.png);
 }
