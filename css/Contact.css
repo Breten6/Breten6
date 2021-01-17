@@ -1,0 +1,173 @@
+body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#outer{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+/* This outer is used to keeping the body content stay at center by useing display:flex and not let it effect header and footer */
+#main_container {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    font-size: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1140px;
+}
+
+#left_container {
+    min-width: 400px;
+    margin: 0px;
+    width: 45%;
+    display: inline-block;
+    text-align: left;
+}
+
+/* #empty_space{
+    width: 10%;
+} */
+#right_container {
+    min-width: 400px;
+    padding-top: 20px;
+    width: 45%;
+    margin: 0px;
+    display: inline-block;
+    text-align: left;
+}
+
+#first_text {
+    color: #000000;
+    font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+}
+
+#second_text {
+    color: #4a5a6a;
+    font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+    font-size: 55px;
+    font-weight: 700;
+    margin: 33px 10px 17px 0px;
+    line-height: 53px;
+}
+
+#third_text {
+    color: #4a5a6a;
+    font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+    font-size: 23px;
+    font-weight: 100;
+    font-style: normal;
+    line-height: 0.1em;
+    letter-spacing: 3px;
+    text-decoration: none;
+}
+
+#fourth_text {
+    margin: 25px 0px 4px 0px;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+}
+
+#fifth_text {
+    color: #690E93;
+    font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7em;
+    letter-spacing: 0.5px;
+    margin: 0px 0px 0px 0px;
+}
+
+.name_and_email {
+    margin-bottom: 22px;
+    background-color: #EAEAEA;
+    border-width: 0px;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4a5a6a !important;
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    height: inherit;
+    padding: 17px 20px;
+    outline: none;
+    line-height: 1.4;
+    font-family: inherit;
+    word-wrap: break-word;
+    word-break: break-all;
+    display: inline-block;
+}
+
+#message {
+    background-color: #EAEAEA;
+    border-color: rgba(0, 0, 0, 0.15);
+    border-width: 0px 0px 0px 0px;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4a5a6a;
+    width: 100%;
+    max-width: 100%;
+    padding: 5px 20px;
+    height: 89px;
+    line-height: 1.4;
+
+}
+
+::-webkit-input-placeholder {
+    color: #4a5a6a;
+    font-weight: 300;
+    font-family: "Microsoft YaHei","宋体","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif, FreeSans, Arimo;
+}
+
+#submit_button {
+    color: #fff;
+    background-color: #4a5a6a;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+    padding: 15px 35px 15px 35px;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: .20px;
+    box-shadow: 0 0 16px 0 rgba(252, 128, 42, 0.6);
+    transition: all 0.3s;
+    border-radius: 5px;
+}
+
+#submit_button:hover {
+    transform: scale(1.15);
+    background-color: #4E7877;
+    box-shadow: 0 0 16px 0 black;
+}
+.success_signal {
+    margin: 10px 0;
+    font-size: 15px;
+    line-height: 1;
+    color: #78787c;
+    font-weight: 600;
+}
+.error_signal {
+    margin: 10px 0;
+    font-size: 15px;
+    line-height: 1;
+    color: #d9534f;;
+    font-weight: 600;
+}
+
+.fa-spin {
+    margin-right: 5px;
+}
