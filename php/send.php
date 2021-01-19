@@ -17,7 +17,7 @@ try {
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'connect.bowen@gmail.com';
-    $mail->Password = 'Contactbowen8';
+    $mail->Password = '123456QWER';
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
     $mail->setFrom('connect.bowen@gmail.com', 'Bowen');//pls do not log in my account, thx

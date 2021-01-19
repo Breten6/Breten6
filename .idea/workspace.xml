@@ -20,19 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec410e7-bc0f-44fd-9dca-6fe0362afc62" name="Default Changelist" comment="card content">
-      <change afterPath="$PROJECT_DIR$/fonts/eicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/eicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/eicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/eicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/eicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/selfie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/send.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carpool.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/influnetics.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sublet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +95,7 @@
       <workItem from="1610901364334" duration="4126000" />
       <workItem from="1610918897644" duration="708000" />
       <workItem from="1610919677030" duration="6736000" />
+      <workItem from="1611025513499" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="card content">
       <created>1610582223008</created>
