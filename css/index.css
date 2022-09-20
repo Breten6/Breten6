@@ -115,6 +115,9 @@ div.search {padding: 19px 0;}
 .house-img{
 background: url(../img/login_bg.png);
 }
+.mit-img{
+    background: url(../img/images.jpg)
+}
 .side-card{
     height: auto;
     width: 100%;
