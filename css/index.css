@@ -118,6 +118,9 @@ background: url(../img/login_bg.png);
 .mit-img{
     background: url(../img/images.jpg)
 }
+.hd-img{
+    background: url(../img/hand_gesture.jpeg);
+}
 .side-card{
     height: auto;
     width: 100%;
