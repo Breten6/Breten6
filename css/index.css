@@ -121,6 +121,9 @@ background: url(../img/login_bg.png);
 .hd-img{
     background: url(../img/hand_gesture.jpeg);
 }
+.cpu-img{
+    background: url(../img/cpu.jpeg);
+}
 .side-card{
     height: auto;
     width: 100%;
