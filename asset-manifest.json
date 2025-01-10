@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Breten6/static/css/main.d8d201eb.css",
+    "main.js": "/Breten6/static/js/main.58bb6866.js",
+    "index.html": "/Breten6/index.html",
+    "main.d8d201eb.css.map": "/Breten6/static/css/main.d8d201eb.css.map",
+    "main.58bb6866.js.map": "/Breten6/static/js/main.58bb6866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d201eb.css",
+    "static/js/main.58bb6866.js"
+  ]
+}
