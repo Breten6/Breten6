@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Breten6/static/css/main.e75666ac.css",
-    "main.js": "/Breten6/static/js/main.4fb602ad.js",
+    "main.js": "/Breten6/static/js/main.5e4fa3ce.js",
     "index.html": "/Breten6/index.html",
     "main.e75666ac.css.map": "/Breten6/static/css/main.e75666ac.css.map",
-    "main.4fb602ad.js.map": "/Breten6/static/js/main.4fb602ad.js.map"
+    "main.5e4fa3ce.js.map": "/Breten6/static/js/main.5e4fa3ce.js.map"
   },
   "entrypoints": [
     "static/css/main.e75666ac.css",
-    "static/js/main.4fb602ad.js"
+    "static/js/main.5e4fa3ce.js"
   ]
 }
