@@ -6,7 +6,7 @@ const others = [
     id: 1,
     title: "Intramural Champion!",
     description: "Best team ever in universe",
-    image: "/life/iso.jpeg",
+    image: process.env.PUBLIC_URL+"/life/iso.jpeg",
   },
 ];
 

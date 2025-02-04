@@ -7,21 +7,21 @@ const projects = [
     id: 1,
     title: "MIT 6.824 lab1 and lab2",
     description: "ECE 350 Real-time operating system lab",
-    image: "/projects/mit.jpg",
+    image: process.env.PUBLIC_URL+"/projects/mit.jpg",
     url: "https://github.com/Breten6/MIT6.824",
   },
   {
     id: 2,
     title: "Single-cycle pipelining CPU",
     description: "ECE 350 Real-time operating system lab",
-    image: "/projects/cpu.jpeg",
+    image: process.env.PUBLIC_URL+"/projects/cpu.jpeg",
     url: "https://github.com/Breten6/CPU",
   },
   {
     id: 3,
     title: "A Real time Operating System",
     description: "ECE 350 Real-time operating system lab",
-    image: "/projects/rtos.jpg",
+    image: process.env.PUBLIC_URL+"/projects/rtos.jpg",
     url: "https://github.com/Breten6/myRTOS",
   },
   {
@@ -29,22 +29,22 @@ const projects = [
     title: "WAVE: Smart HomeKit Using Hand Gestures",
     description:
       "WAVE: Smart HomeKit Using Hand Gestures uses innovative image processing techniques to recognize user gestures, ensuring an intuitive experience.",
-    image: "/projects/hand_gesture.jpeg",
+    image: process.env.PUBLIC_URL+"/projects/hand_gesture.jpeg",
     url: "https://github.com/Breten6/WAVE",
   },
   {
     id: 5,
     title: "C++ MMORPG Server",
     description: "A C++ Reactor framework allowing millions of concurrent",
-    image: "/projects/mmorpg.png",
+    image: process.env.PUBLIC_URL+"/projects/mmorpg.png",
     url: "https://github.com/Breten6/MyReactor",
   },
   {
     id: 6,
-    title: "Hoops app",
-    description: "An sports community app, the main concept is to let every users rating players' performance in every single game.",
-    image: "/projects/hoops.jpg",
-    url: "https://example.com/real-time-os",
+    title: "3D & GIS Viewer",
+    description: "A lightweight web-based application to visualize 3D point cloud data and integrate basic GIS viewing functionality.",
+    image: process.env.PUBLIC_URL+"/projects/3dpc.png",
+    url: "https://github.com/Breten6/3DViewer",
   },
 ];
 
